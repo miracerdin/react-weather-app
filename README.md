@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# Weather App
 
 ## [Click me to see the page](https://react-weather-app-tawny.vercel.app/).
 
-## Available Scripts
+## Description
+In this project, I pull the current weather data from the open weather site with axios and print it on the screen.
 
 In the project directory, you can run:
 
